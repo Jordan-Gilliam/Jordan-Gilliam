@@ -1,5 +1,3 @@
-# Jordan Gilliam
-
 <h1 align="center">
   <br>
   <a href="https://github.com/Jordan-Gilliam"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/max-patch-3-sm.png" alt=""></a>
