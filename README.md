@@ -15,7 +15,7 @@ Hi, I'm Jordan (he/him) — a senior software developer at Lowes working on /pd.
 ☯️ candidness<br>
 🔭 curiosity<br>
 🧙‍♂️ avoid rules<br>
-😌 listen 2 speak 1
+😌 listen 3 speak 1
 
 ## How I work
 
