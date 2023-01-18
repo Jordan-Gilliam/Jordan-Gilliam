@@ -3,15 +3,13 @@
   <a href="https://github.com/Jordan-Gilliam"><img src="https://github.com/Jordan-Gilliam/readme-assets/blob/master/max-patch-3-sm.png" alt=""></a>
 </h1>
 
-Hi, I'm Jordan (he/him) — a senior software developer at Lowes working on /pd. Previously built JS things at BMW. I live in the Blue Ridge Mountains of North Carolina and try to spend most of my time outdoors. 
-
+Hi, I'm Jordan ▽ js @ ally innovation labs 🔬
 ## Blog
 
 🜂 [mind doodles](https://www.nolly.vercel.app)
 
 ## Values
 
-🤯 psychological safety <br>
 ☯️ candidness<br>
 🔭 curiosity<br>
 🧙‍♂️ avoid rules<br>
